@@ -1,22 +1,22 @@
 #Name
 ---
 Parinya Pradit\
-ปริญญา  ประดิษฐ์\
+ปริญญา  ประดิษฐ์
 
 
 #Email
 ---
-devilbevilgamer@gmail.com\
+devilbevilgamer@gmail.com
 
 
 #Tel
 ---
-088-155-6058\
+088-155-6058
 
 
 #Getting Start
 ---
-start code with this command below\
+start code with this command below
 ```
 npm start
 ```
